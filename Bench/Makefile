@@ -1,4 +1,4 @@
-COMPILER = gcc
+COMPILER = nvc
 FLAGS = -g -Wall -Wextra -O2
 
 CURRENT_DIR := $(shell pwd)

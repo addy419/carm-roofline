@@ -4,7 +4,7 @@ __pycache__/
 *.pyc
 *.pyo
 bin/test
-carm_results
+#carm_results
 cache
 Bench/Bench
 config/auto_config/config.txt
